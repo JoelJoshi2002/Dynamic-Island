@@ -39,5 +39,10 @@ This is a notification bar that can be dynamically expanded and collapsed, and i
 
 This app is still in development, and it may contain bugs and unfinished features. Use it at your own risk and feel free to report any issues or feature requests.
 
+## Demo
 
+![image](https://raw.githubusercontent.com/JoelJoshi2002/Dynamic-Island/main/preview/WhatsApp%20Image%202023-01-14%20at%206.29.05%20PM.jpeg)
 
+![image](https://raw.githubusercontent.com/JoelJoshi2002/Dynamic-Island/main/preview/WhatsApp%20Image%202023-01-14%20at%206.29.06%20PM%20(1).jpeg)
+
+![image](https://raw.githubusercontent.com/JoelJoshi2002/Dynamic-Island/main/preview/WhatsApp%20Image%202023-01-14%20at%206.29.06%20PM.jpeg)
