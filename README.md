@@ -3,42 +3,41 @@ This is a notification bar that can be dynamically expanded and collapsed, and i
 
 
 # Features
-=>Dynamic expansion and collapse
+- Dynamic expansion and collapse
 
-=>Customizable appearance
+- Customizable appearance
 
-=>Easy integration with existing Flutter projects
+- Easy integration with existing Flutter projects
 
 ## Getting Started
 
 1. Add the following dependency to your pubspec.yaml file:
 
-  dependencies:
-    dynamic_island_notification_bar: <latest_version>
+  dependencies: ``` dynamic_island_notification_bar: <latest_version> ```
     
-2.Import the package in your Dart code:
+2. Import the package in your Dart code:
 
-  import 'package:dynamic_island_notification_bar/dynamic_island_notification_bar.dart';
+  ``` import 'package:dynamic_island_notification_bar/dynamic_island_notification_bar.dart'; ```
   
-3.Use the DynamicIslandNotificationBar widget in your code, and customize its appearance using the available properties.
+3. Use the DynamicIslandNotificationBar widget in your code, and customize its appearance using the available properties.
 
 4. Make sure Your JAVA SDK is updated.
 
 ## Properties
 
-=>expanded: A boolean value that determines whether the bar is expanded or collapsed.
+- expanded: A boolean value that determines whether the bar is expanded or collapsed.
 
-=>backgroundColor: The background color of the bar.
+- backgroundColor: The background color of the bar.
 
-=>textColor: The color of the text displayed in the bar.
+- textColor: The color of the text displayed in the bar.
 
-=>text: The text to be displayed in the bar.
+- text: The text to be displayed in the bar.
 
-=>onExpansionChanged: A callback function that is called when the expansion state of the bar changes.
+- onExpansionChanged: A callback function that is called when the expansion state of the bar changes.
 
 ## Note
 
-This package is still in development, and it may contain bugs or unfinished features. Use it at your own risk and feel free to report any issues or feature requests.
+This app is still in development, and it may contain bugs and unfinished features. Use it at your own risk and feel free to report any issues or feature requests.
 
 
 
